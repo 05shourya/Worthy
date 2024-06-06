@@ -58,3 +58,7 @@ Worthy is a comprehensive transaction tracking app designed to help you manage y
 
 5. **Adding a Transaction**
     - ![Adding a Transaction](Screenshots/Adding_transaction.jpg)
+
+## Download
+
+[Download latest version of the App](Apk%20Files/Worthy.apk)
